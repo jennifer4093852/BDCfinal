@@ -11,6 +11,18 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Dcard
+    url: https://www.dcard.tw/f
+  - name: Ptt
+    url: https://term.ptt.cc/
+  - name: Shopee
+    url: https://shopee.tw/
+  - name: Momo
+    url: https://www.momoshop.com.tw/main/Main.jsp
+  - name: Carousell
+    url: https://tw.carousell.com/?gclid=CjwKCAjw7vuUBhBUEiwAEdu2pL9yxB78o0FekNtWbWQYnNYOcp09kh25KnJnbhGSdTrE9K-vmE01RhoC07IQAvD_BwE
+  - name: Test Broken Site
+    url: https://dfihfiefiesiefj.eicj
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
